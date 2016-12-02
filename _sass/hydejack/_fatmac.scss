@@ -1,0 +1,118 @@
+/* tags */
+
+.tag-box {
+	text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 4px 0;
+    overflow: hidden;
+    *zoom: 1;
+}
+.tag-box:before, .tag-box:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+.tag-box:after {
+    clear: both;
+}
+.tag-box.inline li {
+    display: inline-block;
+    line-height: 2.5;
+}
+.tag-box a {
+    padding: 4px 6px;
+    margin: 2px;
+    /*background-color: #e6e6e6;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;*/
+    text-decoration: none;
+}
+.tag-box a span {
+    vertical-align: super;
+}
+.page li+li, .post li+li {
+    margin-top: 0rem;
+}
+/* .entry-date {
+	float: right;
+} */
+
+/* fixy moje */
+
+/* tylko do postow */
+ul { list-style: square; }
+p a { border-bottom: 1px solid #999 }
+.post-update {
+  display: block;
+  margin-top: 2rem;
+  /*margin-bottom: -1rem;*/
+  color: $dategrey;
+  font-weight: normal;
+  float: right;
+}
+
+.PageNavigation {
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  margin: 1em 0;
+  display: inline-block;
+}
+
+.PageNavigation .next {
+  text-align: right;
+  float: right;  
+}
+
+.PageNavigation .prev {
+  float: left;
+}
+
+.logo {
+	max-width: 10em;
+}
+
+
+form {
+	width: 50%;
+	margin: 0 auto;
+	overflow: hidden;	
+}
+
+
+input.searchie {
+	font-size: $root-font-size;
+	padding: 0.8em 0.8em;
+	border-style: solid;
+    border-width: 1px 0 1px 1px;
+	border-color: $dategrey;
+	outline: 0;
+	
+}
+
+
+button.icon {
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    border-color: $dategrey;
+    background: transparent;
+    font-size: $root-font-size;
+    padding: 0.8em;
+    left:-10px;
+    position:relative;
+}
+
+button.icon:hover {
+    color: red;
+     -webkit-transition: color 0.4s ease-in-out;
+    transition: color 0.4s ease-in-out;
+}
+
+/* archive */
+.archive-date {
+ color: $dategrey;
+}

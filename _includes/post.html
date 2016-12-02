@@ -1,0 +1,50 @@
+{% assign post = include.post %}
+<article id="post-{{ post.id | slice: 1,9999 }}" class="post" role="article">
+   {% if post.link != nil %}
+    <h1 class="post-title">
+      <a href="{{ post.link }}" title="{{ post.title }}" target="_blank">{{ post.title }} →</a><span class="icon-link"/>
+    </h1>
+    {% else %}
+    <h1 class="post-title"> {% if include.link_title %}<a href="{{ post.url | prepend:site.baseurl }}">{% endif %}
+    {{ post.title }}
+  {% if include.link_title %}</a>{% endif %}
+</h1>
+  {% endif %}
+
+  
+  
+  <h1 class="post-title">
+   </h1>
+ {% include tag-generate.html %}
+
+  <div class="post-date">
+    <time>{% include date_pl.html date = post.date %}</time>&nbsp; <a href="{{ post.url | prepend:site.baseurl }}"><span class="icon-link"/></a>
+	    <span class="post-tag right">{{ tags_content }}</span>
+  </div>
+
+  {% if post.description %}
+    {% comment %}
+      Adding the "message" class to the last (and usually only) paragraph of the description.
+    {% endcomment %}
+    {% capture desc %}{{ post.description }}{:.message}{% endcapture %}
+    {{ desc | markdownify }}
+    <hr/>
+  {% endif %}
+
+
+
+  {{ post.content }}
+	
+
+{% if page.update_date %}
+  <div class="post-update">
+   <time><!-- jak tego uzyc? {{ site.text.post.updated }}--> Edytowane: {% include date_pl.html date = page.update_date %}
+  </time>
+  </div>
+{% endif %}
+<!-- do wyjasnienia {% if post.source %}
+ <div class="post-update">
+    <a href="{{ post.source }}" target="_blank">Źródło →</a>
+ </div>
+ {% endif %} -->
+</article>

@@ -1,0 +1,67 @@
+# Add an entry, where the key represents a slug.
+# Provide at least a `name` value and optionally `image`, `color` and `description`.
+# Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
+#
+# Example:
+#
+# ~~~
+# mytag:
+#   name: My Tag
+#   description: >
+#     *My Tag* is an example of how to define a custom tag.
+# ~~~
+
+hyde:
+  name: Hyde
+  description: >
+    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
+    It’s based on Poole, the Jekyll butler.
+  order: 2
+
+jekyll:
+  name: Jekyll
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1
+
+news:
+  name: news
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1
+
+mac:
+  name: mac
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1
+  
+ios:
+  name: ios
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1
+  
+recenzja:
+  name: recenzja
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1
+  
+tips:
+  name: tips
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1 
+  
+blog:
+  name: blog
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1
+
+link:
+  name: link
+  description: >
+    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+  order: 1 

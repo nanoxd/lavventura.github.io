@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>fatmac</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-12-02T23:47:06+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Marcin</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Udostępnianie ekranu przez &quot;Wiadomości&quot;</title>
+   <link href="http://localhost:4000/2016/11/13/jak-udostepniac-ekran/"/>
+   <updated>2016-11-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2016/11/13/jak-udostepniac-ekran</id>
+   <content type="html">&lt;p&gt;Istnieją różne aplikacje i serwisy umożliwiające udostępnianie swojego ekranu, w większości płatne. 
+Nie każdy wie, że w macOS w appce ‘Wiadomości’ jest wbudowana funkcjonalność udostępniania ekranu a także zdalnego przejmowania kontroli nad ekranem.
+Nie jest to rzecz wszystkim niezbędna, ale może się czasem bardzo przydać.&lt;/p&gt;
+
+&lt;p&gt;Jak sama nazwa wskazuje, udostępnianie ekranu pozwala na wysyłanie drugiemu użytkownikowi podgląd obrazu naszego Maka - wszystko co widzisz Ty widzi też druga osoba której swój obraz wysyłasz, włącznie z dźwiękiem i możliwością przejęcia kontroli nad Twoim ekranem (za Twoją zgodą, oczywiście).&lt;/p&gt;
+
+&lt;p&gt;Udostępnianie ekranu może mieć wiele różnych zastosowań, ja często z tego korzystam celu zdalnej naprawy Maków znajomych i rodziny bądź też wytłumaczenia działania jakiejś appki.&lt;/p&gt;
+
+&lt;p&gt;Zacznijmy od wymagań - obydwa Maki muszą mieć macOS 10.10 albo nowszy i muszą mieć skonfigurowaną aplikację ‘Wiadomości’ - przez konfigurację rozumiem zalogowanie na swoje AppleID.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Włącz aplikację Wiadomości, otwórz (albo rozpocznij) konwersację z osobą, której ekran chcesz udostępnić albo której chcesz, żeby Ci ekran udostępniono.&lt;/li&gt;
+  &lt;li&gt;Kliknij w ‘Szczegóły’ w górnym prawym rogu okna konwersacji.&lt;/li&gt;
+  &lt;li&gt;Wybierz ikonę dwóch nachodzących na siebie ekranów, kliknij ją a następnie wybierz jedną z opcji - w zależności czy chcesz udostępnić swój ekran albo chcesz, żeby ktoś udostępnił Tobie swój ekran.
+????
+I tutaj właśnie podoba mi się prostota tego rozwiązania - osoba której chcesz zdalnie pomóc musi jedynie kliknąć ‘Tak’&lt;/li&gt;
+  &lt;li&gt;Osoba z którą chcesz rozpocząć udostępnianie ekranu dostanie powiadomienie, w którym ma możliwość zaakceptowania rozpoczęcia sesji udostępniania ekranu, po zaakceptowaniu którego sesja się rozpocznie.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po nawiązaniu połączenia obraz osoby z którą się łączysz wyświetli się w nowym oknie na Twoim pulpicie. Dodatkowo, w menu barze wyświetli się znana już nam ikona dwóch nachodzących na siebie ekranów, dzięki której wiemy, że aktualnie udostępniamy swój ekran.
+Bonusem jest to, że automatycznie rozpoczyna się rozmowa głosowa przez FaceTime audio co zdecydowanie ułatwia komunikację.&lt;/p&gt;
+
+&lt;p&gt;W menu będziesz miał możliwość oddania kontroli nad swoim ekranem osobie z którą jesteś połączony.
+Po przejęciu kontroli Twoja klawiatura i touchpad/mysz działają tak, jakby były podpięte do Maka osoby, z którą jesteś połączony.&lt;/p&gt;
+
+&lt;p&gt;Żeby zamknąć sesję udostępniania ekranu możesz użyć ikonki w menu barze, zamykając samo okno udostępniania ekranu albo program Wiadomości.&lt;/p&gt;
+
+&lt;p&gt;Uważam, że jest to bardzo fajne rozwiązanie, obojętnie jak będziemy z niego korzystać - szczególnie, że można je tak łatwo wywołać więć nie trzeba zbyt dużo tłumaczyć osobie z którą będziemy się łączyć.&lt;/p&gt;
+
+&lt;p&gt;Zdaję sobię sprawę, że istnieje wiele komercyjnych rozwiązań dla tego typu funkcjonalności, jak np. Team Viewer albo Log Me In, ale pokazywane przeze mnie rozwiązanie jest bardzo proste w obsłudze, a co ważniejsze wbudowane w system.&lt;/p&gt;
+
+&lt;p&gt;Jest tylko jeden płotek do przeskoczenia - w przypadku braku skonfigurowanego programu Wiadomości ekranu nie udostępnimy.&lt;/p&gt;
+
+&lt;p&gt;Rozwiązaniem alternatywnym może być udostępnianie ekranu przez &lt;a href=&quot;https://support.skype.com/pl/faq/FA10022/jak-udostepnic-ekran-w-skypie-dla-mac-os-x&quot;&gt;Skype&lt;/a&gt;, niestety nie posiada on możliwości przejęcia kontroli nad ekranem. Plusem Skype jest natomiast to, że możemy udostępnić obraz z Maka na iPada.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Darmowe 5GB w iCloud w 2016</title>
+   <link href="http://localhost:4000/2016/11/12/5gb-icloud-w-2016/"/>
+   <updated>2016-11-12T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2016/11/12/5gb-icloud-w-2016</id>
+   <content type="html">&lt;p&gt;Zgadzam się i dodam swoje 3 grosze.&lt;/p&gt;
+
+&lt;p&gt;Każdy z Was który/a wie chociaż trochę o sprzęcie Apple i ma znajomych/rodzinę z tym sprzętem pewnie niejednokrotnie musiał odpowiadać na pytania związane z brakiem miejsca na iCloud.&lt;/p&gt;
+
+&lt;p&gt;‘Czemu znowu nie mam miejsca na iCloud?’ 
+‘Po co mi to iCloud’
+‘Ja to nie robię tych kopii zapasowych bo miejsca nie mam’&lt;/p&gt;
+
+&lt;p&gt;Zazwyczaj udaje mi się przekonać taką osobę do wykupienia planu 50GB miesięcznie i to w pełni rozwiązuje problem - przekonuje ich fakt ‘nic nie będziesz musiał/a robić, wszystko będzie po prostu działać’.
+Jasne, możesz też robić backup przez iTunes, ta opcja jest pełni darmowa - tj. jeżeli chce Ci się w to bawić i będziesz o tym pamiętać.
+Są też przypadki kiedy ludzie olewają pop-up informujący o braku miejsca i w przypadku zagubienia sprzętu już nigdy nie odzyskają w pełni swoich danych.&lt;/p&gt;
+
+&lt;p&gt;W dzisiejszych czasach darmowe 5GB oferowane przez Apple jest śmieszne zważywszy na np. 15GB oferowane przez Google Drive +’nieskończona’ ilość miejsca w Google Photos - to, że im nie ufam to już sprawa osobna.&lt;/p&gt;
+
+&lt;p&gt;Ja się z tym pogodziłem, nie będę miał bólu dupy o te 4 zł miesięcznie (chociaż to, że piszę o tym tekst chyba na to wskazuje), szczególnie, że jeżeli chodzi o chmurę to używam ekskluzywnie iCloud.
+Używałem Dropboxa przez dobrę parę lat alę przez &lt;a href=&quot;https://www.washingtonpost.com/news/the-switch/wp/2016/09/07/hacked-dropbox-data-of-68-million-users-is-now-or-sale-on-the-dark-web/&quot;&gt;ostatnie&lt;/a&gt; parę &lt;a href=&quot;http://applehelpwriter.com/2016/07/28/revealing-dropboxs-dirty-little-security-hack/&quot;&gt;wydarzeń&lt;/a&gt; skasowałem konto i przeniosłem wszystkie dane do iCloud Drive.&lt;/p&gt;
+
+&lt;p&gt;Ludzie mówią, że nie powinno się wrzucać wszystkich jajek do jednego koszyka, ale ja akurat z tym koszykiem czuję się wystarczająco bezpiecznie.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Początek</title>
+   <link href="http://localhost:4000/2016/11/11/start/"/>
+   <updated>2016-11-11T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2016/11/11/start</id>
+   <content type="html">&lt;p&gt;​Przede wszystkim bardzo się cieszę, że tu jesteś i bardzo mi miło, że poświęcasz swój czas na czytanie mojego bloga.
+Zacznę od czegoś bardzo ważnego, wyznania swego rodzaju - otóż nigdy w życiu nie prowadziłem bloga.&lt;/p&gt;
+
+&lt;p&gt;Co więcej, moim ostatnim dłuższym tekstem było wypracowanie na maturze dobre parę lat temu.
+W związku z czym mogę pisać bezsensownie i źle stylistycznie, będziecie musieli mi wybaczyć.
+Obiecuję, że z czasem się poprawię i postaram się pisać lepiej.
+Blog ten, jak sama nazwa wskazuje, będzie skupiony na urządzeniach firmy Apple, ale będę też pisał o treściach związanych z szeroko pojętą technologią dzisiejszych czasów, nie zamykam się tematycznie.
+Dlatego też ‘technologiczny bełkot i apple.’&lt;/p&gt;
+
+&lt;p&gt;Blog ten powstał ponieważ uważam, że w dzisiejszych czasach brakuje w Polsce niezależnych blogów o takiej tematyce.
+Ostatnie prawdziwe umarły parę lat temu, wtedy też przerzuciłem się (Google Reader (R.I.P.)) na blogi i strony zagraniczne.
+Jest parę polskich stron, portali związanych z Apple gdzie wrzucane wrzucane jest wszystko jak leci - newsy, plotki, poradniki itp itd.&lt;/p&gt;
+
+&lt;p&gt;newsy będę podawał w formie zewnętrznych linków, ze swoim komentarzem na temat.
+Linkował zazwyczaj będę do źródeł zagranicznych - w związku z tym zakładam, że posiadasz znajomość angielskiego umożliwiającą Ci czytanie ze zrozumieniem.
+Oczywiście pisał też będę autorskie teksty, recenzje, poradniki, felietony itp.&lt;/p&gt;
+
+&lt;p&gt;Nie ma mnie nigdzie indziej w internecie oprócz tego bloga.
+Jeżeli chcesz mnie ‘followować’ to proszę o dodanie mnie do zakładek, czytnika RSS czy na ekran swojego iPhone/iPada przez kliknięcie w kwadracik ze strzałką w górę i wybranie opcji ‘Dodaj do ekranu startowego’ (mam ładną ikonkę!).&lt;/p&gt;
+
+&lt;p&gt;Blog jako strona jest wciąż w wersji beta, może zdarzyć się, że coś nie będzie działać, pracuję nad nim :).
+I tak, tak ma wyglądać, wbrew pozorom nie jest zepsuty.&lt;/p&gt;
+
+&lt;p&gt;Jeżeli chcecie się ze mną skontaktować - ekstra! - napiszcie do mnie maila.
+Jeszcze raz dziękuję i mam nadzieję, że będzie Wam się podobać o czym piszę.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing Hyde</title>
+   <link href="http://localhost:4000/2013/12/28/introducing-hyde/"/>
+   <updated>2013-12-28T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2013/12/28/introducing-hyde</id>
+   <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+
+&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+
+&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;@mdo&lt;/code&gt;&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
+  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
+  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
+
+&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
+  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+
+&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+
+&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://localhost:4000/2012/02/07/example-content/"/>
+   <updated>2012-02-07T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2012/02/07/example-content</id>
+   <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt; elements&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt; defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;**To bold text**&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;*To italicize text*&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt; should be defined like this &lt;code class=&quot;highlighter-rouge&quot;&gt;*[HTML]: HyperText Markup Language&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;~~deleted~~&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (&lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt;)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+  &lt;dt&gt;Cascading Style Sheets (&lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt;)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+  &lt;dt&gt;JavaScript (&lt;abbr title=&quot;JavaScript&quot;&gt;JS&lt;/abbr&gt;)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;800x400&quot; title=&quot;Large example image&quot; class=&quot;lead&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;400x200&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;200x200&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2016/11/0NbWfoM.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h2 id=&quot;math&quot;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;Aenean lacinia &lt;span class=&quot;MathJax_Preview&quot;&gt;f(x) = x^2&lt;/span&gt;&lt;script type=&quot;math/tex&quot;&gt;f(x) = x^2&lt;/script&gt; bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;div class=&quot;MathJax_Preview&quot;&gt;\begin{aligned}
+  \phi(x,y) &amp;amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &amp;amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &amp;amp;= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  &amp;amp; \cdots &amp;amp; \phi(e_1, e_n) \\
+                 \vdots          &amp;amp; \ddots &amp;amp; \vdots         \\
+                 \phi(e_n, e_1)  &amp;amp; \cdots &amp;amp; \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}&lt;/div&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{aligned}
+  \phi(x,y) &amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &amp;= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  &amp; \cdots &amp; \phi(e_1, e_n) \\
+                 \vdots          &amp; \ddots &amp; \vdots         \\
+                 \phi(e_n, e_1)  &amp; \cdots &amp; \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned} %]]&gt;&lt;/script&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;You can insert footnote marks using &lt;code class=&quot;highlighter-rouge&quot;&gt;[^1]&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;[^2]&lt;/code&gt;, etc and write the footnote text at the bottom of your file like this: &lt;code class=&quot;highlighter-rouge&quot;&gt;[^1]: You can also insert footnote marks...&lt;/code&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's Jekyll?</title>
+   <link href="http://localhost:4000/2012/02/06/whats-jekyll/"/>
+   <updated>2012-02-06T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2012/02/06/whats-jekyll</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+
+&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

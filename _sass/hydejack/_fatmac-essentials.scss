@@ -1,0 +1,31 @@
+.right { float: right }
+
+/*.blogname {
+	left: 0;
+    position: absolute;
+    transform-origin: left top;
+    transform: rotate(90deg);
+}ą
+*/
+
+.blogname {
+	font-size: 1.25rem;
+	font-weight: bold;
+	position: fixed;
+  left: 2.5rem;
+  top: -5px;
+  padding: 1.20rem 1.5rem;
+  background: var(--bg-color);
+	z-index: 3;
+}
+.blogname a{
+	color: var(--post-title);
+}
+
+.hide {
+	display: none;
+}
+@media (min-width: 64em) {
+  .blogname {
+	display: none  }
+}

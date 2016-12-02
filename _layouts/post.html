@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% include post.html post=page link_title=false %}
+
+{% comment %}
+<!-- po co mi to?{% if site.author.about %} 
+  {% include about.html author=site.author %}
+{% endif %} -->
+{% endcomment %}
+
+{% include related.html post=page %}
+{% include prevnext.html post=page %}
+
+{% if site.disqus %}
+{% include comments.html post=page %}
+{% endif %}

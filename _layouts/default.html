@@ -1,0 +1,44 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <script>
+      const el = document.getElementById('theme-switcher');
+
+      if (window.localStorage && localStorage['currentTheme']) {
+        var iconClasses = iconForTheme(localStorage['currentTheme'])
+        el.className = iconClasses
+      } else {
+        el.className = iconForTheme()
+      }
+    </script>
+
+	{% include menu.html %}
+
+    <y-push-state replace-ids="_main,_asidebar" link-selector="a[href^='/']" scroll-restoration>
+      <main id="_main" class="content container" role="main">
+        {% include page-style.html %}
+        {{ content }}
+      </main>
+
+      {% include sidebar.html %}
+    </y-push-state>
+
+    {% include scripts.html %}
+
+
+
+
+
+    <script>
+      checkForSavedTheme()
+    </script>
+
+  </body>
+</html>
