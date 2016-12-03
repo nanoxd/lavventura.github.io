@@ -8,16 +8,7 @@ layout: compress
   {% include head.html %}
 
   <body>
-    <script>
-      const el = document.getElementById('theme-switcher');
 
-      if (window.localStorage && localStorage['currentTheme']) {
-        var iconClasses = iconForTheme(localStorage['currentTheme'])
-        el.className = iconClasses
-      } else {
-        el.className = iconForTheme()
-      }
-    </script>
 
 	{% include menu.html %}
 
@@ -26,8 +17,19 @@ layout: compress
         {% include page-style.html %}
         {{ content }}
       </main>
-
       {% include sidebar.html %}
+      <script>
+        const el = document.getElementById('theme-switcher') = () => {
+
+        if (window.localStorage && localStorage['currentTheme']) {
+          var iconClasses = iconForTheme(localStorage['currentTheme'])
+          el.className = iconClasses
+        }
+        else {
+          el.className = iconForTheme()
+        }
+      }
+      </script>
     </y-push-state>
 
     {% include scripts.html %}

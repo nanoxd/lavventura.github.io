@@ -83,8 +83,8 @@ const switchTheme = () => {
 
 const iconForTheme = (themeName) => {
   if (themeName === NightTheme.themeName) {
-    return 'icon-search'
-  } else {
     return 'icon-chat'
+  } else {
+    return 'icon-search'
   }
 }
